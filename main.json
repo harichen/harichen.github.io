@@ -1,1 +1,1 @@
-{"name":"harichen","number_of_posts_per_page":7,"disqus_shortname":"harichen","posts":[{"title":"hello world","date":"2015-03-12","tags":"","path":"hello.html"}],"pages":[{"title":"ABOUT","date":"2015-03-12","tags":"about","path":"about.html","num":0,"type":"page","active":false}]}
+{"name":"harichen","number_of_posts_per_page":7,"disqus_shortname":"harichen","posts":[{"title":"hello world","date":"2015-03-12","tags":"","path":"hello.html","num":0,"type":"post","active":false}],"pages":[{"title":"ABOUT","date":"2015-03-12","tags":"","path":"about.html"}]}
