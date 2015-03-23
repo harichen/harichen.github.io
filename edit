@@ -27,14 +27,14 @@
 <!-- markdown -->
 #Blog Edit Page
 
-![博客编辑界面](http://isnowfy.github.io/simple/#/posts)
+[博客编辑界面](http://isnowfy.github.io/simple/#/posts)
 <!-- markdown end -->
 </div>
 <div class="entry" id="main">
 <!-- content -->
 <h1 id="blogeditpage">Blog Edit Page</h1>
 
-<p><img src="http://isnowfy.github.io/simple/#/posts" alt="博客编辑界面" title=""></p>
+<p><a href="http://isnowfy.github.io/simple/#/posts">博客编辑界面</a></p>
 <!-- content end -->
 </div>
 <br>
